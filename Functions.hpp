@@ -18,6 +18,7 @@
 #include <sys/stat.h>
 #include <cerrno>
 #include <fcntl.h>
+#include <cstring>
 
 using namespace std;
 
